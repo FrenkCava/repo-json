@@ -1,11 +1,11 @@
 {
    "selLanguage":{
       "Id":5,
-      "NomeLingua":"RUSSO",
+      "NomeLingua":"Привет",
       "Alfabeto":204,
       "CodLingua":"RU",
       "ExtStile":"(CYR)",
-      "LivelloLingua":"RUSSO",
+      "LivelloLingua":"Привет",
       "NomeAlfabeto":"Cirillico",
       "Enabled":true
    }
