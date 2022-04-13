@@ -1,5 +1,6 @@
 {
     "selLanguage": {
+        [
         "Id": 5,
         "NomeLingua": "RUSSO",
         "Alfabeto": 204,
@@ -8,5 +9,6 @@
         "LivelloLingua": "RUSSO",
         "NomeAlfabeto": "Cirillico",
         "Enabled": true
+        ]
     }
 }
