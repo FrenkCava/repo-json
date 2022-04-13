@@ -1,14 +1,12 @@
 {
-    "selLanguage": {
-        [
-        "Id": 5,
-        "NomeLingua": "RUSSO",
-        "Alfabeto": 204,
-        "CodLingua": "RU",
-        "ExtStile": "(CYR)",
-        "LivelloLingua": "RUSSO",
-        "NomeAlfabeto": "Cirillico",
-        "Enabled": true
-        ]
-    }
+   "selLanguage":{
+      "Id":5,
+      "NomeLingua":"RUSSO",
+      "Alfabeto":204,
+      "CodLingua":"RU",
+      "ExtStile":"(CYR)",
+      "LivelloLingua":"RUSSO",
+      "NomeAlfabeto":"Cirillico",
+      "Enabled":true
+   }
 }
