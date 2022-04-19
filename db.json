@@ -15,7 +15,7 @@
         "RevDataDB": "2021-11-10T00:00:00",
         "RevManuale": "1.0",
         "Logo": "KOSME",
-        "ModelloMacchina": "AMBRA",
+        "ModelloMacchina": "AAAAA",
         "TipoMacchina": "S",
         "VersMacchina": "ABC",
         "Cliente": "Mechta",
@@ -28,8 +28,7 @@
         "Mip": "",
         "OrdineCliente": "",
         "CodDocumento": "",
-        "Note": "Lingua: EN+RU\r\nBancale: SI\r\nAgitatore: SI\r\nFotocellule controllo file: SI\r\nMagazzino: NO\r\nIncollatore: NO\r\nFilm: Singola\r\nSaldatore: Manuale\r\nColore macchina: RAL7037\r\nColore tunnel: RAL7037\r\nPannello: WEINTEK\r\nSezionatore: NERO",
-        "ChosenLanguageTemplateId": "a6679226-d44d-4484-a096-ad18006e9ee3"
+        "Note": ""
     },
     "Matricola": {
         "Id": 1057,
@@ -52,7 +51,7 @@
             "titolo": "ВВЕДЕНИЕ",
             "paragrafi": [
                 {
-                    "path": "\\\\server03\\Manuale Istruzioni_AppIndd\\Atlanta\\00_Atlanta Base",
+                    "path": "",
                     "file": "ATLANTA_00_00_R1-0.indd"
                 }
             ],
@@ -64,49 +63,10 @@
             "titolo": "ОБЩАЯ ИНФОРМАЦИЯ",
             "paragrafi": [
                 {
-                    "path": "\\\\server03\\Manuale Istruzioni_AppIndd\\Atlanta\\00_Atlanta Base",
+                    "path": "",
                     "file": "ATLANTA_01_01_00_R1-0_targhetta_EAC.indd"
                 },
-                {
-                    "path": "\\\\server03\\Manuale Istruzioni_AppIndd\\Atlanta\\00_Atlanta Base",
-                    "file": "ATLANTA_01_02_00_R1-0.indd"
-                },
-                {
-                    "path": "\\\\server03\\Manuale Istruzioni_AppIndd\\Atlanta\\AMBRA",
-                    "file": "AMBRA_01_03_00_R1-0_prima_parte_versione_S.indd"
-                },
-                {
-                    "path": "\\\\server03\\Manuale Istruzioni_AppIndd\\Atlanta\\00_Atlanta Base",
-                    "file": "ATLANTA_01_03_00_R1-0_seconda_parte.indd"
-                },
-                {
-                    "path": "\\\\server03\\Manuale Istruzioni_AppIndd\\Atlanta\\00_Atlanta Base",
-                    "file": "ATLANTA_01_03_01_R1-0_alimentazione_prodotto_con_bancale.indd"
-                },
-                {
-                    "path": "\\\\server03\\Manuale Istruzioni_AppIndd\\Atlanta\\00_Atlanta Base",
-                    "file": "ATLANTA_01_03_01_R1-0_film.indd"
-                },
-                {
-                    "path": "\\\\server03\\Manuale Istruzioni_AppIndd\\Atlanta\\00_Atlanta Base",
-                    "file": "ATLANTA_01_03_01_R1-0_tunnel-armadio.indd"
-                },
-                {
-                    "path": "\\\\server03\\Manuale Istruzioni_AppIndd\\Atlanta\\MATRICOLE\\MATR-938",
-                    "file": "MATR-938_01_03_02_R1-0_LPF00027.indd"
-                },
-                {
-                    "path": "\\\\server03\\Manuale Istruzioni_AppIndd\\Atlanta\\00_Atlanta Base",
-                    "file": "ATLANTA_01_03_03_R1-0.indd"
-                },
-                {
-                    "path": "\\\\server03\\Manuale Istruzioni_AppIndd\\Atlanta\\00_Atlanta Base",
-                    "file": "ATLANTA_01_03_04_R1-0.indd"
-                },
-                {
-                    "path": "\\\\server03\\Manuale Istruzioni_AppIndd\\Atlanta\\00_Atlanta Base",
-                    "file": "ATLANTA_01_04_00_R1-0.indd"
-                }
+               
             ],
             "lScelta": "L3"
         },
@@ -124,16 +84,7 @@
             "Cap04": "1.0",
             "Cap05": "1.0",
             "Cap06": "1.0",
-            "Cap07": "1.0",
-            "Cap08": "1.0",
-            "Cap09": "1.0",
-            "Cap10": "1.0",
-            "Cap11": "1.0",
-            "Cap12": null,
-            "Cap13": null,
-            "Cap14": null,
-            "Cap15": null,
-            "Cap16": null
+ 
         }
     ]
 };    
