@@ -1,0 +1,90 @@
+{
+    "selLanguage": {
+        "Id": 5,
+        "NomeLingua": "RUSSO",
+        "Alfabeto": 204,
+        "CodLingua": "RU",
+        "ExtStile": "(CYR)",
+        "LivelloLingua": "RUSSO",
+        "NomeAlfabeto": "Cirillico",
+        "Enabled": true
+    },
+    "Revisione": {
+        "Id": 1057,
+        "ParentMatricolaId": 1057,
+        "RevDataDB": "2021-11-10T00:00:00",
+        "RevManuale": "1.0",
+        "Logo": "KOSME",
+        "ModelloMacchina": "AAAAA",
+        "TipoMacchina": "S",
+        "VersMacchina": "ABC",
+        "Cliente": "Mechta",
+        "CommessaNr": "938",
+        "AnnoCostruzione": "2021",
+        "RevHMI": "",
+        "MarchioCe": true,
+        "MarchioScada": false,
+        "CertificazioneNr": "",
+        "Mip": "",
+        "OrdineCliente": "",
+        "CodDocumento": "",
+        "Note": ""
+    },
+    "Matricola": {
+        "Id": 1057,
+        "CodMatricola": "938",
+        "ParentCostruttoreId": 2,
+        "ParentCostruttoreNome": "ATLANTA",
+        "ParentMatricolaId": null
+    },
+    "Capitoli": [
+        {
+            "code": "I",
+            "rev": "1.0",
+            "titolo": "УКАЗАТЕЛЬ",
+            "paragrafi": [],
+            "lScelta": "L3"
+        },
+        {
+            "code": "00",
+            "rev": "1.0",
+            "titolo": "ВВЕДЕНИЕ",
+            "paragrafi": [
+                {
+                    "path": "",
+                    "file": "ATLANTA_00_00_R1-0.indd"
+                }
+            ],
+            "lScelta": "L3"
+        },
+        {
+            "code": "01",
+            "rev": "1.0",
+            "titolo": "ОБЩАЯ ИНФОРМАЦИЯ",
+            "paragrafi": [
+                {
+                    "path": "",
+                    "file": "ATLANTA_01_01_00_R1-0_targhetta_EAC.indd"
+                },
+               
+            ],
+            "lScelta": "L3"
+        },
+       
+    ],
+    "RevisioneMatricolaCapitoli": [
+        {
+            "MatricolaRevId": 1057,
+            "MatricolaRevNum": "1.0",
+            "MatricolaRevData": "2021-11-10T00:00:00",
+            "Cap00": "1.0",
+            "Cap01": "1.0",
+            "Cap02": "1.0",
+            "Cap03": "1.0",
+            "Cap04": "1.0",
+            "Cap05": "1.0",
+            "Cap06": "1.0",
+ 
+        }
+    ]
+};    
